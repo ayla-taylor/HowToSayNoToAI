@@ -1,0 +1,2 @@
+# HowToSayNoToAI
+Workshop toolkit
